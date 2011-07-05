@@ -1,37 +1,37 @@
-# Lista mercado base para pedir por Internet al Olímpico**
+# Lista mercado base para pedir por Internet al Olímpico
 
 ## Verduras
-* lechuga Batavia
-* lechuga crespa
-* repollo blanco mediano
+* 1 lechuga Batavia
+* 1 lechuga crespa
+* 1 repollo blanco mediano
 * 1 libra de rábanos
-* aguacates hass
-* tomates de aliño (repartidos entre maduros y pintones)
-* pimentones rojos
-* brócoli
-* coliflor
+* 4 aguacates hass
+* 35 tomates de aliño (repartidos entre maduros y pintones)
+* 3 pimentones rojos
+* 1 brócoli
+* 1 coliflor
 * champiñones tajados
-* zanahorias medianas
-* apio
-* cilantro
-* cebolla rama
+* 8 zanahorias medianas
+* 1 apio
+* 1 manojo de cilantro
+* 1 cebolla rama
 * espinaca
-* cebollas blancas
-* cebollas rojas
-* ajo importado
-* habichuela
-* alverja
-* mazorcas niñas
+* 6 cebollas blancas
+* 6 cebollas rojas
+* 1 bolsita de ajo importado
+* 1 libra de habichuela
+* arveja
+* 3 mazorcas dulces
 * berenjena
 * zukini verde
 * papa capira
 * papa sabanera
-* papa criolla
+* 1 kilo de papa criolla
 * yuca
-* plátanos maduros
-* plátanos verdes
-* puerros
-* pepinos de ensalada
+* 5 plátanos maduros
+* 3 plátanos verdes
+* pu  erros
+* 1 pepinos de ensalada
 * pepino para rellenar
 * jengibre
 * penca sábila
@@ -40,7 +40,7 @@
 * 30 limones tahití
 * 1 kilo de mora
 * 15 tomates de árbol
-* 3 mangos
+* 3 mangos tommy
 * 10 lulos
 * 8 maracuyá
 * 8 manzanas gala
@@ -49,34 +49,35 @@
 * 1 piña oro miel
 * 1 papaya maradol
  
-* 4 papayas hawaianas
+* 5 papayas hawaianas (una verde, dos pintonas, dos maduras)
 * 10 curubas redondas
 * higos
 * granadillas
-* Bananos criollos
-* naranjas
+* 1 mano Bananos criollos pintones (12 unidades)
+* 5 kilos de naranja valencia
+* 15 guayabas rosadas
 
 ## Fríos
 * 1 bolsa de leche Colanta
 * 1 queso crema Colanta grande
-* 1 queso parmesano Colanta 250 gms
-* 1 queso mozarella Colanta de 500 (entero)
+* 1 queso parmesano Colanta 250 gramos
+* 1 queso mozarella Colanta de 500 gramos (entero)
 * 1 queso mozarella tajado Colanta (26 tajadas) Montealegre
 * 1 queso amarillo Rica tajado (250 gms)
-* mantequilla Alpina (sin sal)
-* chorizos ternera Colanta (de lb)
+* ½ libra de mantequilla Alpina (sin sal)
+* 1 paquete de chorizos de ternera Colanta (de 1 libra)
 * 1 jamón Lorenzano (grande)
-* bon yur tarro grande (para zucaritas)
+* Bon Yurt tarro grande (para Zucaritas)
 
 ## Varios
 * 1 Canasta huevos rojos (30)
-* Azúcar 2.5 kilos
-* Arroz 2.5 kilos Roa o Diana
+* 2.5 kilos de azúcar
+* 2.5 kilos de arroz Roa o Diana
 * Sal
-* 1 lb café Aguila Roja
-* 1 caja te Hindú (100 bolsitas)
-* 1 Milo 400 gms
-* 1 lb harina de trigo
+* 1 libra de café Águila Roja
+* 1 caja de té Hindú (100 bolsitas)
+* 1 Milo de 400 gramos
+* 1 libra de harina de trigo
 * 1 Kilo de lentejas
 * 1 kilo fríjol cargamento rojo
 * 1 kilo fríjol cargamento blanco
@@ -84,40 +85,40 @@
 * 2 pares de panela
 * 1 Aceite Canola Vitale 3000 cm3
 * 1 Salsa Soya Lite (350 cc)
-* 1 salsa tomate La Constancia (con tapita) mediana
+* 1 salsa tomate La Constancia (con tapita, mediana)
 * 1 mayonesa La Constancia (con tapita, mediana)
 * 1 Mostaza Respin (con tapita)
-* 1 pasta de tomate la constancia
-* 3 atún en agua van camps
-* 1 frasco alcaparras Al Fresco
-* 3 tarros maicitos Respin
+* 1 pasta de tomate La Constancia
+* 3 atún en agua Van Camps
+* 1 frasco de alcaparras Al Fresco
+* 3 tarros de maicitos Respin
 * 1 miel de abejas Del Néctar
 * 1 jarabe para pancakes Al Fresco
-* 1 harina panckes Aunt Jemima (bolsa roja)
-* 1 bolsita pimienta grano
+* 1 harina pancakes Aunt Jemima (bolsa roja)
+* 1 bolsita de pimienta en grano
 * Pastas Doria para sopa (letricas, fideos, anillitos)
-* spaguettis
-* pasta corta. penne, tornillos
+* Spaguettis
+* Pasta corta: penne, tornillos
 * pasta Lasaña Gaudenzi
 
-* 250 gms uvas pasas
+* 250 gramos de uvas pasas
 * Mermelada fresa La Constancia
 * Mermelada mora La Constancia
-* Soya pac (Icolpán) (900 gms)
+* 1 Soya Pac (Icolpán) (900 gms)
 * 1 taco galletas Ducales (empaque individual)
 * 1 taco galletas Saltín
 * 1 pan tajado Bimbo familiar
 * Pan integral Bimbo
-* Polvo bizcocho Bimbo
-* 1 Choco Crispis 750 grm
-* 1 Zucaritas 750 grm
-* 1 Corn flakes 750 grm
+* 1 bolsa de polvo de bizcocho Bimbo
+* 1 Choco Crispis 750 gramos
+* 1 Zucaritas 750 gramos
+* 1 Corn Flakes 750 gramos
 
-* 2 papitas de limón Margarita(empaques para lonchera)
+* 2 papitas de limón Margarita (empaques para lonchera)
 * 2 paquete papitas natural Margarita (empaques para lonchera)
 * 1 paquete Cheetos (empaques para lonchera)
-* 1 paquete maicitos (empaques para lonchera)
-* 1 paquete platanitos verdes margarita Cronch
+* 1 paquete Maicitos (empaques para lonchera)
+* 1 paquete Platanitos verdes Margarita Cronch
 
 ## Pollo y carnes
 * 3 bandeja pechugas Friko
@@ -125,13 +126,12 @@
 * 3 lb de tabla entera, empacada de a libra por bolsa
 * 3 lb de tabla molida, empacada de a libra por bolsa
 * 1 solomito porcionado (tajada delgada, empacado de a 6 tajadas por bolsita)
-* cordón del solomito aparte para gulash
-* 11/2 kilo tocino carnudo para picada
-* 1 libras de morrillo (trozos pequeños para sancocho) empacado de a libra por
-* bolsa
-* 1 y ½ lbs de posta (entera)
-* 1 lb de pierna troceada
-* 1 1/2 lb de pierna molida
+* Cordón del solomito aparte para gulash
+* 1 ½ kilo tocino carnudo para picada
+* 1 libras de morrillo (trozos pequeños para sancocho) empacado de a libra por bolsa
+* 1 y ½ libras de posta (entera)
+* 1 libra de pierna troceada
+* 1 ½ libras de pierna molida
 
 ##Aseo
 * 1 paquetes servilletas Familia (2 en 1)
@@ -147,13 +147,11 @@
 * Jabón Vel Rosita en liquido
 * 1 limpiavidrios
 * 1 paquete esponjillas tela blanca para lavar loza
-* Esponjillas Bon bril (12)
+* Esponjillas Bon Bril (12)
 * Bolsas transparentes (de 1 kilo)
-* Bolsas transparentes (de 1 lb)
+* Bolsas transparentes (de 1 libra)
 
 * 1 promoción Kolynos amarillo (3 empacados juntos)
 * 1 promoción (3 empacados juntos) jabón tocador blanco (Protex)
-* 1 paquete Toallas higiénicas nosotras ultra invisible rapisec
-* tampones o.b medio-regular (20)
 * 1 Shampoo Ultra Nutrit complex 600 ml KERATINA (azul)
 * 1 Acondicionador Ultra Nutrit complex 600 ml KERATINA (azul)
