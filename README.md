@@ -1,6 +1,6 @@
-**Lista mercado base para pedir por Internet al Olímpico**
+# Lista mercado base para pedir por Internet al Olímpico**
 
-**Verduras**
+## Verduras
 * lechuga Batavia
 * lechuga crespa
 * repollo blanco mediano
@@ -36,7 +36,7 @@
 * jengibre
 * penca sábila
 
-**Frutas**
+## Frutas
 * 30 limones tahití
 * 1 kilo de mora
 * 15 tomates de árbol
@@ -56,7 +56,7 @@
 * Bananos criollos
 * naranjas
 
-**Fríos**
+## Fríos
 * 1 bolsa de leche Colanta
 * 1 queso crema Colanta grande
 * 1 queso parmesano Colanta 250 gms
@@ -68,7 +68,7 @@
 * 1 jamón Lorenzano (grande)
 * bon yur tarro grande (para zucaritas)
 
-**Varios**
+## Varios
 * 1 Canasta huevos rojos (30)
 * Azúcar 2.5 kilos
 * Arroz 2.5 kilos Roa o Diana
@@ -119,7 +119,7 @@
 * 1 paquete maicitos (empaques para lonchera)
 * 1 paquete platanitos verdes margarita Cronch
 
-**Pollo y carnes**
+## Pollo y carnes
 * 3 bandeja pechugas Friko
 * 3 bandejas contramuslos Friko
 * 3 lb de tabla entera, empacada de a libra por bolsa
@@ -133,7 +133,7 @@
 * 1 lb de pierna troceada
 * 1 1/2 lb de pierna molida
 
-**Aseo**
+##Aseo
 * 1 paquetes servilletas Familia (2 en 1)
 * papel plástico (de envolver)
 * Papel aluminio Alúmina
