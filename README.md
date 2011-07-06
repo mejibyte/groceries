@@ -176,7 +176,7 @@
 * Jabón Rey
 * Jabón Vel Rosita en barra
 * Jabón Vel Rosita en liquido
-* 1 Bolsa de jabón líquido de avena para recarga
+* 1 Bolsa de recarga de jabón líquido (Aromasense Avena 400 ml)
 * 1 limpiavidrios
 * 1 botella de Fabuloso multiusos morado de 1 litro
 * 1 paquete de Frótex de 250 gramos (de tapita roja)
