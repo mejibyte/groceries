@@ -131,7 +131,7 @@
 * 1 pan tajado Bimbo familiar
 * Pan integral Bimbo
 * 1 bolsa de pan árabe Bimbo
-* 1 bolsa de tortillas de maíz Bimbo
+* 1 bolsa de tortillas de harina Bimbo
 * Pan de hamburguesa
 * Pan de perro
 * Pan francés
