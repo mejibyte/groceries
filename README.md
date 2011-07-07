@@ -146,6 +146,8 @@
 * 1 paquete Cheetos (empaques para lonchera)
 * 1 paquete Maicitos (empaques para lonchera)
 * 1 paquete Platanitos verdes Margarita Cronch
+* 1 paquete de galletas Festival de fresa
+* 1 paquete de galletas Festival de chocolate
 
 ## Pollo, carnes y pescado
 * 3 bandeja pechugas Friko
