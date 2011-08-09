@@ -148,6 +148,7 @@
 * 1 paquete Platanitos verdes Margarita Cronch
 * 1 paquete de galletas Festival de fresa
 * 1 paquete de galletas Festival de chocolate
+* 1 paquete de chocolatinas Jet
 
 ## Pollo, carnes y pescado
 * 3 bandeja pechugas Friko
