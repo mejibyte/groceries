@@ -149,6 +149,7 @@
 * 1 paquete de galletas Festival de fresa
 * 1 paquete de galletas Festival de chocolate
 * 1 paquete de chocolatinas Jet
+* Chocolate Diana 500 gramos
 
 ## Pollo, carnes y pescado
 * 3 bandeja pechugas Friko
