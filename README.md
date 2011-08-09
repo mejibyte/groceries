@@ -1,5 +1,7 @@
 # Lista mercado base para pedir por Internet al Olímpico
 
+Teléfono del supermercado Olímpico: 285 45 44
+
 ## Verduras
 * 1 lechuga Batavia
 * 1 lechuga crespa
