@@ -70,9 +70,9 @@ Teléfono del supermercado Olímpico: 285 45 44
 * 1 queso mozarella tajado Colanta (26 tajadas) Montealegre
 * 1 queso amarillo Rica tajado (250 gms)
 * ½ libra de mantequilla Alpina (sin sal)
-* 1 paquete de chorizos de ternera Colanta (de 1 libra)
-* 1 paquete de salchichas Zenú
-* 1 paquete de morcilla Zenú
+* 1 paquete de chorizos de ternera Colanta de 500 gramos.
+* 1 paquete de salchichas Zenú de 450 gramos.
+* 1 paquete de morcilla Zenú de 500 gramos.
 * 1 jamón Lorenzano (grande)
 * Bon Yurt tarro grande (para Zucaritas)
 * Kumis
