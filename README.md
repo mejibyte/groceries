@@ -66,7 +66,7 @@ Teléfono del supermercado Olímpico: 285 45 44
 * 1 frasco de crema de leche Colanta de 500 ml
 * 1 queso crema Colanta grande
 * 1 queso parmesano Alpina 250 gramos
-* 1 queso mozarella Colanta de 500 gramos (entero)
+* 1 queso mozarella Colanta de 250 gramos (entero)
 * 1 queso mozarella tajado Colanta (26 tajadas) Montealegre
 * 1 queso amarillo Rica tajado (250 gms)
 * ½ libra de mantequilla Alpina (sin sal)
