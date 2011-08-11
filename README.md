@@ -73,7 +73,7 @@ Teléfono del supermercado Olímpico: 285 45 44
 * 1 paquete de chorizos de ternera Colanta de 500 gramos.
 * 1 paquete de salchichas Zenú de 450 gramos.
 * 1 paquete de morcilla Zenú de 500 gramos.
-* 1 jamón Lorenzano (grande)
+* 1 jamón Lorenzano (20 tajadas, 400 gramos)
 * Bon Yurt tarro grande (para Zucaritas)
 * Kumis
 
